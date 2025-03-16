@@ -33,7 +33,8 @@ By building this project, you will learn:
 Here’s how the **Password Generator** looks:  
 
 ![Password Generator]
-![Screenshot 2025-03-16 160411](https://github.com/user-attachments/assets/63cf6801-2e5c-4e90-947f-d915cf27ec1e)
+![Screenshot 2025-03-16 185637](https://github.com/user-attachments/assets/cc013c64-bfa0-4544-a7d3-1e1cfa3fc444)
+
 
 ---
 
