@@ -36,7 +36,7 @@ function App() {
         style={{ background: "black" }}
       >
         <h1 className="flex flex-col   h-screen text-white text-5xl font-extrabold text-center leading-snug p-6 shadow-lg rounded-xl">
-          This is the Passward generator <br />
+          This is the Password generator <br />
           with{" "}
           <span className="text-yellow-500">Vite + React + Tailwind CSS</span>
         </h1>
